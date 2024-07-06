@@ -1,0 +1,4 @@
+google
+newsapi-python
+nltk
+spacy
